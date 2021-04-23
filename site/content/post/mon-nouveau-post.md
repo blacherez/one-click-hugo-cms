@@ -1,0 +1,7 @@
+---
+title: Mon nouveau post
+date: 2021-04-23T21:22:50.749Z
+description: Blabla
+image: https://media-cdn.tripadvisor.com/media/photo-s/0d/1d/f8/c6/hellfire-club-members.jpg
+---
+**Hellfire Club** was a name for several exclusive [clubs](https://en.wikipedia.org/wiki/Club_(organization) "Club (organization)") for high-society [rakes](https://en.wikipedia.org/wiki/Rake_(character) "Rake (character)") established in [Britain](https://en.wikipedia.org/wiki/Great_Britain "Great Britain") and Ireland in the 18th century. The name is most commonly used to refer to Sir [Francis Dashwood](https://en.wikipedia.org/wiki/Francis_Dashwood,_11th_Baron_le_Despencer "Francis Dashwood, 11th Baron le Despencer")'s **Order of the Friars of St. Francis of Wycombe**.[\[1]](https://en.wikipedia.org/wiki/Hellfire_Club#cite_note-1) Such clubs were rumoured to be the meeting places of "persons of quality"[\[2]](https://en.wikipedia.org/wiki/Hellfire_Club#cite_note-Ashe_p.48-2) who wished to take part in socially perceived immoral acts, and the members were often involved in politics. Neither the activities nor membership of the club are easy to ascertain. The clubs were rumoured to have distant ties to an elite society known only as The Order of the Second Circle.[\[3]](https://en.wikipedia.org/wiki/Hellfire_Club#cite_note-Blackett-Ord_p._46-3)[\[4]](https://en.wikipedia.org/wiki/Hellfire_Club#cite_note-Ashe_p._111-4)
